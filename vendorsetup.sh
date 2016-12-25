@@ -1,0 +1,1 @@
+add_lunch_combo omni_minim8s-userdebug
