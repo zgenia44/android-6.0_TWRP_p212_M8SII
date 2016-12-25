@@ -1,1 +1,1 @@
-# android-6.0_TWRP_p212_M8SII
+TWRP device tree for the MiniM8S+ VONTAR
